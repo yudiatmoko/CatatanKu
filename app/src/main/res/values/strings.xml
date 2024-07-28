@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CatatanKu</string>
+    <string name="dir_name">/catatanku</string>
+    <string name="add_notes_text">Tambah Catatan</string>
+    <string name="file_name_text">Judul Catatan</string>
+    <string name="enter_file_name_text">Isi judul catatan</string>
+    <string name="note_content_text">Isi Catatan</string>
+    <string name="enter_note_content_here">Isi catatan di sini…</string>
+    <string name="save_text">Simpan</string>
+    <string name="ubah_catatan_text">Ubah Catatan</string>
+    <string name="file_name_already_exist_text">Judul catatan sudah digunakan</string>
+    <string name="save_changes_text">Simpan Perubahan</string>
+    <string name="note_saved_text">Catatan berhasil disimpan</string>
+    <string name="create_new_text">Buat Catatan Baru</string>
+    <string name="date_format">dd MMM yyy HH:mm</string>
+    <string name="delete_file_title">Hapus Catatan</string>
+    <string name="are_you_sure_to_delete_this_file">"Apakah anda yakin ingin menghapus \"%1$s\""</string>
+    <string name="yes_text">Ya</string>
+    <string name="cancel_text">Batal</string>
+    <string name="dd_mmm_yyy_hh_mm">dd MMM yyy HH:mm</string>
+    <string name="file_deleted">Catatan berhasil dihapus</string>
+    <string name="file_name_required">Silahkan isi judul catatan</string>
+</resources>
